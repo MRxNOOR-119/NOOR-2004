@@ -16,7 +16,7 @@ pip install mechanize
 
 rm -rf NOOR-2004
 
-git clone https://github.com/Rayeesnoor538/NOOR-2004
+git clone https://github.com/MRxNOOR-119/NOOR-2004
 
 cd NOOR-2004
 
